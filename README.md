@@ -1,13 +1,14 @@
-#Proyecto para el curso Backend Coderhouse
-#Node.js & Express Server
+# Proyecto para el curso Backend Coderhouse
+
+# Node.js & Express Server
 #This is a basic server built with Node.js and Express to manage products and shopping carts.
 
-Prerequisites
+# Prerequisites
 Before you begin, ensure you have installed:
 
 Node.js
 npm (usually comes with Node.js)
-Installation
+# Installation
 Clone this repository or download it to your local machine.
 
 
@@ -18,7 +19,7 @@ Navigate to the repository's directory.
 cd [directory-name]
 Install required packages.
 
-npm install
+# npm install
 Running the Server
 To start the server, run:
 
