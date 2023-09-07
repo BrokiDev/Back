@@ -1,7 +1,6 @@
-# Back
-Proyecto para el curso Backend Coderhouse
-Node.js & Express Server
-This is a basic server built with Node.js and Express to manage products and shopping carts.
+#Proyecto para el curso Backend Coderhouse
+#Node.js & Express Server
+#This is a basic server built with Node.js and Express to manage products and shopping carts.
 
 Prerequisites
 Before you begin, ensure you have installed:
