@@ -4,7 +4,7 @@ este es mi proyecto para el curso backend por el momento esta es el primer avanc
 # Node.js & Express Server
 #This is a basic server built with Node.js and Express to manage products and shopping carts.
 
-# Prerequisites
+# Pre-requisites
 Before you begin, ensure you have installed:
 
 Node.js
