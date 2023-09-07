@@ -1,4 +1,5 @@
 # Proyecto para el curso Backend Coderhouse
+este es mi proyecto para el curso backend por el momento esta es el primer avance en esta aplicacion
 
 # Node.js & Express Server
 #This is a basic server built with Node.js and Express to manage products and shopping carts.
